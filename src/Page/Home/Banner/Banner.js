@@ -1,6 +1,7 @@
 import React from "react";
 import "../../../assets/css/theme.css";
 import heroHeader from '../../../assets/img/gallery/hero-header.png'
+
 const Banner = () => {
   return (
     <div>
